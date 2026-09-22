@@ -3,4 +3,4 @@
 1. git add 的作用是：把工作区修改加入暂存区，准备提交，不会保存版本
 2. git commit 的作用是：把暂存区内容提交到本地版本库，生成一个版本快照，只保存在本地电脑
 3. git restore notes.md 的作用是：用仓库里旧版本覆盖当前工作区文件，撤销还没有提交的修改
-4. commit 与 push 的区别是：commit提交到**本地仓库**；push将本地仓库推送上传到**远程Github仓库**
+4. commit 与 push 的区别是：commit提交到本地仓库；push将本地仓库推送上传到远程Github仓库
